@@ -1,0 +1,274 @@
+// yobosoc948@pbridal.com
+// hivec28870@wlmycn.com
+// abcd@123
+
+// 8aaf75509db44241b724b7dcc3be5e97
+
+
+
+{
+    "status": "ok",
+    "totalResults": 33,
+    "articles": [
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Danny Freeman, Holly Yan, Steve Almasy",
+            "title": "Suspect in hourslong Pittsburgh standoff after deputies tried to evict him is dead, police say - CNN",
+            "description": "The occupant of a home who opened fire when deputies tried to serve an eviction notice is dead after an hourslong standoff, Pittsburgh authorities said Wednesday.",
+            "url": "https://www.cnn.com/2023/08/23/us/pittsburgh-police-shooting-garfield/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230823114629-01-shooting-pittsburgh-0823.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2023-08-24T02:08:00Z",
+            "content": "The occupant of a home who opened fire when deputies tried to serve an eviction notice is dead after an hourslong standoff, Pittsburgh authorities said Wednesday.\r\nThe subject in this incident was pr… [+3248 chars]"
+        },
+        {
+            "source": {
+                "id": "the-hindu",
+                "name": "The Hindu"
+            },
+            "author": "Sportstar",
+            "title": "Cincinnati vs Inter Miami LIVE Score, US Open Cup Semifinal: CIN 3 (5)-3 (4) MIA; Maimi reaches final after winning penalty shootout - Sportstar",
+            "description": null,
+            "url": "https://sportstar.thehindu.com/football/messi-inter-miami-vs-cincinnati-live-updates-us-open-cup-semifinal-streaming-score-highlights/article67228928.ece",
+            "urlToImage": null,
+            "publishedAt": "2023-08-24T01:52:30Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "financial-times",
+                "name": "Financial Times"
+            },
+            "author": "Lauren Fedor, Felicia Schwartz",
+            "title": "Absent Donald Trump tries to upstage Republican primary debate - Financial Times",
+            "description": "GOP rivals in Milwaukee clash on abortion, climate change and the economy",
+            "url": "https://www.ft.com/content/3a58cc7a-879a-4f50-9192-6bd81d83aa0e",
+            "urlToImage": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F39dca589-9c62-4330-9380-831e84009d42.jpg?source=next-opengraph&fit=scale-down&width=900",
+            "publishedAt": "2023-08-24T01:47:01Z",
+            "content": "The US Republican partys sharp divides were laid bare on Wednesday night, when eight candidates for president sparred on the debate stage in Milwaukee, Wisconsin, while frontrunner Donald Trump tried… [+4217 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Valerie Insinna, David Shepardson",
+            "title": "New Boeing 737 MAX supplier defect to delay aircraft deliveries - Reuters",
+            "description": "Boeing <a href=\"https://www.reuters.com/markets/companies/BA.N\" target=\"_blank\">(BA.N)</a> has recently identified a new 737 MAX quality problem involving supplier Spirit AeroSystems <a href=\"https://www.reuters.com/markets/companies/SPR.N\" target=\"_blank\">(S…",
+            "url": "https://www.reuters.com/business/aerospace-defense/new-boeing-737-max-supplier-defect-delay-aircraft-deliveries-2023-08-23/",
+            "urlToImage": "https://www.reuters.com/resizer/MqsE-jWUPIUG_ma03UOiU-NAPfE=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/ZKCI5ILP6NLSLMWDBHESABBABI.jpg",
+            "publishedAt": "2023-08-24T00:58:00Z",
+            "content": "Aug 23 (Reuters) - Boeing (BA.N) has recently identified a new 737 MAX quality problem involving supplier Spirit AeroSystems (SPR.N) that has resulted in improperly drilled holes on the aft pressure … [+1956 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CBS Sports"
+            },
+            "author": "",
+            "title": "Sam Darnold named 49ers' No. 2 QB; Trey Lance given 'a big chance to win' backup spot, Kyle Shanahan says - CBS Sports",
+            "description": "Lance, whose future with the team is in doubt, is still expected to see some action in Friday's preseason finale",
+            "url": "https://www.cbssports.com/nfl/news/sam-darnold-named-49ers-no-2-qb-trey-lance-given-a-big-chance-to-win-backup-spot-kyle-shanahan-says/",
+            "urlToImage": "https://sportshub.cbsistatic.com/i/r/2023/06/28/aed33d27-0867-43c6-895c-a2a82dc18469/thumbnail/1200x675/8e0d7fbb8a7e6c44bc6f25e7d81d8638/getty-trey-lance-sam-darnold-49ers.jpg",
+            "publishedAt": "2023-08-24T00:58:00Z",
+            "content": "A year ago, Trey Lance was on the precipice of being the San Francisco 49ers' new starting quarterback. Now, Lance's future with the team is in doubt after the team named Sam Darnold as the team's No… [+2992 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Deadline"
+            },
+            "author": "Armando Tinoco",
+            "title": "‘Rebel Moon’: Zack Snyder’s Cut Of Netflix Film To Have “Close To An Hour Of Extra Content” - Deadline",
+            "description": "Netflix is releasing a director’s cut of the Zack Snyder film that will have “close to an hour of extra content” and fans don’t have to campaign for it to see the light of d…",
+            "url": "https://deadline.com/2023/08/rebel-moon-zack-snyder-cut-netflix-film-1235526670/",
+            "urlToImage": "https://deadline.com/wp-content/uploads/2023/08/rebel-moon-netflix.jpg?w=1024",
+            "publishedAt": "2023-08-24T00:45:00Z",
+            "content": "Netflix is releasing a director’s cut of the Zack Snyder film that will have “close to an hour of extra content” and fans don’t have to campaign for it to see the light of day.\r\nIn contrast to the Sn… [+1728 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "YouTube"
+            },
+            "author": null,
+            "title": "New PlayStation Portal Details, Pricing and More Revealed - IGN Daily Fix - IGN",
+            "description": "On today's Daily Fix:After teasing the device at the last State of Play showcase, Sony officially announced its handheld device's new name, previously codena...",
+            "url": "https://www.youtube.com/watch?v=QZ8s_IHY0E8",
+            "urlToImage": "https://i.ytimg.com/vi/QZ8s_IHY0E8/maxresdefault.jpg",
+            "publishedAt": "2023-08-24T00:18:18Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "associated-press",
+                "name": "Associated Press"
+            },
+            "author": "MARTÍN ADAMES ALCÁNTARA, DÁNICA COTO",
+            "title": "At least 1 person is dead and 2 are missing as Tropical Storm Franklin batters Dominican Republic - The Associated Press",
+            "description": "Tropical Storm Franklin is unleashing heavy floods and landslides in the Dominican Republic after making landfall in the country’s southern region. The Civil Defense agency said the storm killed one person on Wednesday. The storm began to slowly spin away fro…",
+            "url": "https://apnews.com/article/tropical-storm-franklin-haiti-dominican-republic-floods-9172b46177a80fec91340478f235586d",
+            "urlToImage": "https://dims.apnews.com/dims4/default/7b09aae/2147483647/strip/true/crop/6240x3510+0+325/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F2f%2Fec%2Fbf5b9cb2991ea5e619e73c2a5af3%2F5f5c0712832b4000845c35f3b2cb4221",
+            "publishedAt": "2023-08-24T00:04:00Z",
+            "content": "SANTO DOMINGO, Dominican Republic (AP) Tropical Storm Franklin unleashed heavy floods and landslides in the Dominican Republic on Wednesday after making landfall in the countrys southern region, kill… [+5831 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CNBC"
+            },
+            "author": "Kif Leswing",
+            "title": "Nvidia's blowout earnings report shows chipmaker is gobbling up all the profit in AI - CNBC",
+            "description": "Nvidia's prodigious cashflow contrasts with its top customers, which are spending heavily on AI hardware and building multi-million dollar AI models.",
+            "url": "https://www.cnbc.com/2023/08/23/nvidia-blowout-earnings-report-shows-chipmaker-grabbing-all-ai-profits.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/107072705-1654689317450-gettyimages-1041948482-87192795.jpeg?v=1692835116&w=1920&h=1080",
+            "publishedAt": "2023-08-23T23:58:36Z",
+            "content": "Nvidia is on a tear, and it doesn't seem to have an expiration date.\r\nNvidia makes the graphics processors, or GPUs, that are needed to build AI applications like ChatGPT. In particular, there's extr… [+3874 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "BBC News"
+            },
+            "author": "https://www.facebook.com/bbcnews",
+            "title": "How Russia reacted after Prigozhin plane crash - BBC",
+            "description": "After his failed rebellion, most Russians were probably surprised this hadn't happened sooner.",
+            "url": "https://www.bbc.com/news/world-europe-66601412",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/8ECE/production/_130885563_mediaitem130885341.jpg",
+            "publishedAt": "2023-08-23T23:34:42Z",
+            "content": "Russia is a country full of surprises.\r\nPeople here were shocked this summer after drones attacked the centre of Moscow on several occasions, causing explosions and damage to buildings.\r\nThen, the Ru… [+2497 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Tierney Sneed",
+            "title": "Mark Meadows and Jeffrey Clark can't avoid arrest in Georgia election subversion case, judge rules - CNN",
+            "description": "A federal judge on Wednesday rejected efforts by former Trump White House chief of staff Mark Meadows and ex-Justice Department official Jeffrey Clark to avoid arrest if they fail to turn themselves in by Friday’s deadline in the Georgia election subversion c…",
+            "url": "https://www.cnn.com/2023/08/23/politics/willis-meadows-clark-arrest-response/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230820135035-mark-meadows-file-102620.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2023-08-23T22:37:00Z",
+            "content": "A federal judge on Wednesday rejected efforts by former Trump White House chief of staff Mark Meadows and ex-Justice Department official Jeffrey Clark to avoid arrest if they fail to turn themselves … [+3902 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "The Athletic"
+            },
+            "author": "Nicole Auerbach",
+            "title": "ACC brass meeting this week as conference seriously considers adding Stanford, Cal, SMU: Sources - The Athletic",
+            "description": "A group of ACC presidents met Wednesday morning to discuss finances, one of the sources said.",
+            "url": "https://theathletic.com/4800635/2023/08/23/acc-cal-stanford-smu-expansion/",
+            "urlToImage": "https://cdn.theathletic.com/app/uploads/2023/08/07153423/ACC-scaled.jpg",
+            "publishedAt": "2023-08-23T22:29:40Z",
+            "content": "The ACC is seriously considering adding Stanford, Cal and SMU, multiple sources briefed on the discussions said Wednesday. There have been discussions periodically over the past month. Heres what you… [+3078 chars]"
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Emma Roth",
+            "title": "Google's AR projects are reportedly facing even more setbacks - The Verge",
+            "description": "Google’s augmented reality project is reportedly in turmoil. After shutting down Project Iris, Insider reports that Google’s upcoming mixed reality projects are facing major setbacks.",
+            "url": "https://www.theverge.com/2023/8/23/23843308/google-samsung-ar-mixed-reality-headsets",
+            "urlToImage": "https://cdn.vox-cdn.com/thumbor/ZtCF0RGneZml3juzavvw2_dAa5M=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/24016883/STK093_Google_06.jpg",
+            "publishedAt": "2023-08-23T22:27:36Z",
+            "content": "Googles AR projects are reportedly facing even more setbacks\r\nGoogles AR projects are reportedly facing even more setbacks\r\n / Google is struggling to move its rumored mixed reality headset forward, … [+2623 chars]"
+        },
+        {
+            "source": {
+                "id": "espn",
+                "name": "ESPN"
+            },
+            "author": null,
+            "title": "Yanks' Brian Cashman labels season 'a disaster,' expects evaluation - ESPN - ESPN",
+            "description": "With the Yankees on the verge of their longest losing streak in a century, GM Brian Cashman proclaimed the season \"a disaster\" and \"an embarrassment\" that will lead to job assessments of himself and manager Aaron Boone.",
+            "url": "https://www.espn.com/mlb/story/_/id/38246484/yankees-gm-brian-cashman-admits-season-disaster-vows-find-cause",
+            "urlToImage": "https://a.espncdn.com/combiner/i?img=%2Fphoto%2F2023%2F0823%2Fr1214651_1296x729_16%2D9.jpg",
+            "publishedAt": "2023-08-23T22:22:00Z",
+            "content": "Aug 23, 2023, 06:22 PM ET\r\nNEW YORK -- In what amounted to a concession speech with the New York Yankees on the verge of their longest losing streak in a century, general manager Brian Cashman procla… [+2979 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "YouTube"
+            },
+            "author": null,
+            "title": "India first to land on moon's south pole - KPRC 2 Click2Houston",
+            "description": "India became the first country to land a spacecraft near the moon’s south pole on Wednesday — a historic voyage to uncharted territory that scientists believ...",
+            "url": "https://www.youtube.com/watch?v=b7uZqW3Sfi8",
+            "urlToImage": "https://i.ytimg.com/vi/b7uZqW3Sfi8/maxresdefault.jpg",
+            "publishedAt": "2023-08-23T22:18:38Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "the-wall-street-journal",
+                "name": "The Wall Street Journal"
+            },
+            "author": "Heard Editors, Gunjan Banerji, Charley Grant, Asa Fitch, Hardika Singh, Alexander Osipovich, Jack Pitcher, Eric Wallerstein, Caitlin Ostroff, Josh Mitchell, Sabela Ojea, Anna Hirtenstein, Dan Gallagher, Spencer Jakab",
+            "title": "It's Not Just Nvidia—AI Stocks Are Beating the Market Big Time - The Wall Street Journal",
+            "description": "Live coverage of what's moving stocks and markets, including the Dow Jones Industrial Average, S&P 500 and Nasdaq Composite",
+            "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-jones-08-23-2023",
+            "urlToImage": "https://images.wsj.net/im-785590/social",
+            "publishedAt": "2023-08-23T22:15:00Z",
+            "content": "Stock indexes closed higher ahead of Nvidia's earnings, which easily beat Wall Street expectations and sent the chip maker's shares surging after the market close.\r\nInvestors had plenty of other quar… [+1491 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Will Dunham",
+            "title": "Scientists solve the genetic puzzle of sex-related Y chromosome - Reuters",
+            "description": "Scientists have taken an important step forward in understanding the <a href=\"/science/human-genome-reboot-better-reflects-global-population-2023-05-10/\">human genome</a> - our genetic blueprint - by fully deciphering the enigmatic Y chromosome present in mal…",
+            "url": "https://www.reuters.com/science/scientists-solve-genetic-puzzle-sex-related-y-chromosome-2023-08-23/",
+            "urlToImage": "https://www.reuters.com/resizer/6me24b5W2NQKG-2IlaOH13V2Hug=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/7PVAIWH3KJKRHOO72ZRCRSKRSA.jpg",
+            "publishedAt": "2023-08-23T22:08:00Z",
+            "content": "WASHINGTON, Aug 23 (Reuters) - Scientists have taken an important step forward in understanding the human genome - our genetic blueprint - by fully deciphering the enigmatic Y chromosome present in m… [+3753 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "MacRumors"
+            },
+            "author": "Juli Clover",
+            "title": "Everything New in Maps in iOS 17 - MacRumors",
+            "description": "With iOS 17, Apple is introducing new features for the Maps app. The changes in the Maps app aren't as notable as some of the additions we've...",
+            "url": "https://www.macrumors.com/guide/ios-17-maps/",
+            "urlToImage": "https://images.macrumors.com/t/8Z9vS6Kcf2qGhcgMkjaFUOTo1Rk=/2250x/article-new/2023/08/iOS-17-General-Maps-Feature.jpg",
+            "publishedAt": "2023-08-23T22:03:27Z",
+            "content": "With iOS 17, Apple is introducing new features for the Maps app. The changes in the Maps app aren't as notable as some of the additions we've seen with prior software updates, but there is at least o… [+2185 chars]"
+        },
+        {
+            "source": {
+                "id": "associated-press",
+                "name": "Associated Press"
+            },
+            "author": "JOHN FLESHER, ED WHITE",
+            "title": "Prosecutor says 3 men accused in plot to kidnap Michigan Gov. Whitmer wanted to start a civil war - The Associated Press",
+            "description": "A prosecutor says three men accused in a plot to kidnap Michigan Gov. Gretchen Whitmer wanted to start a civil war. Eric Molitor and twin brothers William Null and Michael Null went on trial Wednesday in Antrim County, Michigan. They are charged with providin…",
+            "url": "https://apnews.com/article/whitmer-kidnapping-plot-trial-michigan-governor-fc00d15f2151c3df8ab97fb41728d810",
+            "urlToImage": "https://dims.apnews.com/dims4/default/d924532/2147483647/strip/true/crop/8295x4666+0+433/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fbd%2F6d%2F6829297cad089df1fa966132fd4f%2F03d3fb2a28004ddab3196a7bc3a755e7",
+            "publishedAt": "2023-08-23T21:56:00Z",
+            "content": "BELLAIRE, Mich. (AP) Three men accused of aiding a plot to kidnap Michigan Gov. Gretchen Whitmer were anarchists who considered themselves the new founding fathers and were preparing for bloodshed, a… [+4711 chars]"
+        },
+        {
+            "source": {
+                "id": "the-washington-post",
+                "name": "The Washington Post"
+            },
+            "author": "Yvonne Wingett Sanchez, Devlin Barrett, Patrick Marley",
+            "title": "Fulton defendant Floyd accused of attacking agent in Jack Smith probe - The Washington Post",
+            "description": "Harrison William Prescott Floyd is accused of assaulting an agent serving him a subpoena in the Justice Deptartment’s probe of efforts to obstruct the 2020 election.",
+            "url": "https://www.washingtonpost.com/national-security/2023/08/23/willie-floyd-fulton-maryland-fbi-arrest/",
+            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/PCOXIQGQNCV6CKFMTWSE3QCDBA_size-normalized.JPG&w=1440",
+            "publishedAt": "2023-08-23T21:43:30Z",
+            "content": "Comment on this story\r\nComment\r\nA Trump supporter indicted last week in Fulton County, Ga., for allegedly harassing an election worker was charged earlier this year with attacking an FBI agent workin… [+8606 chars]"
+        }
+    ]
+}
